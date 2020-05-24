@@ -1,6 +1,7 @@
 <html>
-<head>
-</head>
+	<head>
+		<title>狗不理</title>
+	</head>
 <body>
 	<img src="0.jpg"/>
 	<h1>征婚介绍</h1>
