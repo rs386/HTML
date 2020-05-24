@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
 </head>
 <body>
 	<h1>征婚介绍</h1>
