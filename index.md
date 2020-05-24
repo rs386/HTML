@@ -2,7 +2,7 @@
 <head>
 </head>
 <body>
-	<img src="1.jpg"/>
+	<img src="0.jpg"/>
 	<h1>征婚介绍</h1>
   <p>
     本人名叫<strong>何洋洋</strong>。
