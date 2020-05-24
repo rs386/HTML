@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/rs386/HTML/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rs386/HTML/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title何洋洋征婚</title>
+</head>
+<body>
+	<h1>征婚介绍</h1>
+  <p>
+    本人名叫<strong>何洋洋</strong>。
+  </p>
+  <p>
+    长得十分的<strong>帅气</strong>。
+  </p>
+  <p>
+    联系电话:18225348654
+  </p>
+  <p>
+    因为本身颜值过高，迷倒万千少男少女，一般都称自己为何帅，由于各种原因不能直接上传照片（设计师没有哪个水平），想要联系我的话，请拨打上方的联系电话，我在床上等着你。
+  </p>
+  <p>我是你的爸爸啊！</p>
+</body>
+</html>
