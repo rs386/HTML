@@ -2,7 +2,6 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=gbk" />
-<title何洋洋征婚</title>
 </head>
 <body>
 	<h1>征婚介绍</h1>
