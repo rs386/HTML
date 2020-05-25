@@ -1,22 +1,14 @@
 <html>
-	<head>
-		<title>狗不理</title>
-	</head>
-<body>
-	<img src="0.jpg"/>
-	<h1>征婚介绍</h1>
-  <p>
-    本人名叫<strong>何洋洋</strong>。
-  </p>
-  <p>
-    长得十分的<strong>帅气</strong>。
-  </p>
-  <p>
-    联系电话:18225348654
-  </p>
-  <p>
-    因为本身颜值过高，迷倒万千少男少女，一般都称自己为何帅，由于各种原因不能直接上传照片（设计师没有哪个水平），想要联系我的话，请拨打上方的联系电话，我在床上等着你。
-  </p>
-  <p>我是你的爸爸啊！</p>
-</body>
+    <head>
+        <title>猛男征婚</title>
+    </head>
+    <body>
+        <h1>征婚告示</h1>
+        <img src="0.jpg"/>
+        <a href="https://www.runoob.com/html/html-basic.html"></a>
+        <p>这是本人的真实照片。</p>
+        <p>因为颜值过<strong>帅</strong>，导致游览器直接崩溃。</p>
+        <p>联系电话：15426545846</p>
+        <p>我在床上等着你！</p>
+    </body>
 </html>
