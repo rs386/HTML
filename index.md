@@ -10,5 +10,6 @@
         <p>因为颜值过<strong>帅</strong>，导致游览器直接崩溃。</p>
         <p>联系电话：15426545846</p>
         <p>我在床上等着你！</p>
+        <addess><b>网址：</b><a href="https://www.baidu.com/">百度一下，你就知道</a></addess>
     </body>
 </html>
