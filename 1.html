@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        body{
+            background-color: bisque;
+        }
+        #color{
+            color:rgba(46, 16, 216, 0.918);
+            text-align:center;
+        }
+        span.red{
+            color:red;
+        }
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>注册表单</title>
+</head>
+<body>
+    <h3 id="color">喝药药征婚表单</h3>
+    <table>
+    <form action="url" methob="post" name="注册">
+        <tr>
+            <td>
+                姓名：
+            </td>
+            <td>
+                <input type="text">
+            </td>
+            <td>
+                头像：
+            </td>
+            <td>
+                <input type="file">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                联系电话：
+            </td>
+            <td>
+                <input type="text" maxlength="11">
+                <input type="button" value="获取验证码">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                验证码：
+            </td>
+            <td>
+                <input type="text" maxlength="4">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                设置密码(6位）：
+            </td>
+            <td>
+                <input type="password" maxlength="6">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                重新输入：
+            </td>
+            <td>
+                <input type="password" maxlength="6">
+            </td>
+        </tr>
+        <tr>
+            <td>性别:</td>
+            <td><input type="radio" id="man" name="a"><label for="man">男</label> <input type="radio" id="nv" name="a"><label for="nv">女</label></td>
+        </tr>
+        <tr>
+            <td>生日:</td>
+            <td>
+                <select>
+                    <option selected="selected">--请选择年--</option>
+                    <option>2020</option>
+                    <option>2019</option>
+                    <option>2018</option>
+                    <option>2017</option>
+                    <option>2016</option>
+                </select>
+                <select>
+                    <option selected="selected">--请选择月--</option>
+                    <option>12</option>
+                    <option>11</option>
+                    <option>10</option>
+                    <option>9</option>
+                    <option>8</option>
+                </select>
+                <select>
+                    <option selsected="selected">--请选择日--</option>
+                    <option>1</option>
+                    <option>2</option>
+                    <option>3</option>
+                    <option>4</option>
+                    <option>5</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                所在地区
+            </td>
+            <td>
+                <select>
+                    <option selected="selected">--请选择市--</option>
+                    <option>山东</option>
+                    <option>西藏</option>
+                    <option>上海</option>
+                    <option>北京</option>
+                    <option>重庆</option>
+                </select>
+                <select>
+                    <option selected="selected">--请选择县--</option>
+                    <option>酉阳</option>
+                    <option>秀山</option>
+                    <option>云阳</option>
+                    <option>绵阳</option>
+                    <option>德阳</option>
+                </select>
+                <select>
+                    <option selected="selected">--请选择村--</option>
+                    <option>福山</option>
+                    <option>忘记名字了</option>
+                    <option>记不到</option>
+                    <option>李家</option>
+                    <option>金山</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                详细地址：
+            </td>
+            <td>
+                <textarea cols="50" rows="1"></textarea><br/>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                婚姻状况：
+            </td>
+            <td>
+                <input type="radio" id="a" name="sex"><label for="a">未婚</label><input type="radio" id="b" name="sex"><label for="b">已婚</label><input type="radio" id="c" name="sex"><label for="c">离异</label><br/>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                喜欢类型：
+            </td>
+            <td>
+                <input type="checkbox" id="qw"><label for="qw">妖媚的</label><input type="checkbox" id="rf"><label for="rf">可爱的</label><input type="checkbox" id="tg"><label for="tg">小鲜肉</label><input type="checkbox" id="yh"><label for="yh">老腊肉</label><input type="checkbox" id="uj"><label for="uj">都喜欢</label>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                自我介绍：
+            </td>
+            <td>
+                <textarea cols="50" rows="6"></textarea><br/>
+            </td>
+        </tr>
+    </table>
+        <input type="submit" valur="免费注册"><br/>
+        <input type="reset"><br/>
+        <input type="radio" checked="checked">我同意<a href="https://www.baidu.com/" barget="_blank">注册条款</a>和<a href="https://www.bilibili.com/video/BV14J4114768?p=56" barget="_blank">会员加入标准</a><br/>
+        <a href="https://quqi.com/p/login.html?forward=https%3A%2F%2Fquqi.com%2F4884399%2F0" barget="_blank"><span class="red">我是会员 立即登录</span></a><br/>
+        <h2>我承诺：</h2><br/>
+        <p>
+            <ul>
+                <li>年满18岁</li>
+                <li>真心寻找另一半</li>
+                <li>在校大学生</li>
+            </ul>
+        </p>
+    </form>
+</body>
+</html>
